@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>D S L</title>
+  <title>邓盛林</title>
   
-  
+  <subtitle>知识在于积累</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2020-03-04T15:34:20.290Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://blog.sl97.cn/"/>
+  <updated>2020-03-08T15:00:22.967Z</updated>
+  <id>http://blog.sl97.cn/</id>
   
   <author>
     <name>邓盛林</name>
@@ -17,19 +17,43 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2020/03/04/hello-world/"/>
-    <id>http://yoursite.com/2020/03/04/hello-world/</id>
-    <published>2020-03-04T15:34:20.289Z</published>
-    <updated>2020-03-04T15:34:20.290Z</updated>
+    <title>我的简历</title>
+    <link href="http://blog.sl97.cn/2020/03/08/%E6%88%91%E7%9A%84%E7%AE%80%E5%8E%86/"/>
+    <id>http://blog.sl97.cn/2020/03/08/%E6%88%91%E7%9A%84%E7%AE%80%E5%8E%86/</id>
+    <published>2020-03-08T14:48:55.000Z</published>
+    <updated>2020-03-08T15:00:22.967Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="这是我的简历模板"><a href="#这是我的简历模板" class="headerlink" title="这是我的简历模板"></a>这是我的简历模板</h2>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;h2 id=&quot;这是我的简历模板&quot;&gt;&lt;a href=&quot;#这是我的简历模板&quot; class=&quot;headerlink&quot; title=&quot;这是我的简历模板&quot;&gt;&lt;/a&gt;这是我的简历模板&lt;/h2&gt;
+      
+    
+    </summary>
+    
+    
+      <category term="关于我" scheme="http://blog.sl97.cn/categories/%E5%85%B3%E4%BA%8E%E6%88%91/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>邓盛林</title>
+    <link href="http://blog.sl97.cn/2020/03/05/hello-world/"/>
+    <id>http://blog.sl97.cn/2020/03/05/hello-world/</id>
+    <published>2020-03-04T20:00:28.724Z</published>
+    <updated>2020-03-08T14:57:26.568Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="个人简介"><a href="#个人简介" class="headerlink" title="个人简介"></a>个人简介</h2><h2 id=""><a href="#" class="headerlink" title=""></a></h2><h2 id="博客简介"><a href="#博客简介" class="headerlink" title="博客简介"></a>博客简介</h2><h2 id="我的技能"><a href="#我的技能" class="headerlink" title="我的技能"></a>我的技能</h2><h2 id="兴趣爱好"><a href="#兴趣爱好" class="headerlink" title="兴趣爱好"></a>兴趣爱好</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;个人简介&quot;&gt;&lt;a href=&quot;#个人简介&quot; class=&quot;headerlink&quot; title=&quot;个人简介&quot;&gt;&lt;/a&gt;个人简介&lt;/h2&gt;&lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2 id
       
     
     </summary>
